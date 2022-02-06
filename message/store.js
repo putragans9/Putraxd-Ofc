@@ -1,0 +1,174 @@
+exports.dmff = (prefix) => {
+return `
+🦴ゝLIST DROP DM PutraXd Ofc
+ ▬▬▭▬▬▭▬▬▭▬▬▭▬▬▭▬▬
+␥50💎 : 7.400
+␥70💎 : 9.600
+␥140💎: 19.300
+␥210💎 : 28.700
+␥355💎 : 48.000
+␥710💎 : 94.000
+␥1000💎 : 129.000
+␥1400💎 : 184.000
+␥2000💎 : 249.000
+ᗰᗰ : 28.900
+ᗰᗷ : UPDATE.
+
+𖥻 order : sabar
+𖥻 ga sabar ga ush order, krn yg proses bukan aku gw cuma seller
+- dm order di nomor :
+🦴 𓄼 wa.me/6283842942635
+`
+}
+exports.follig = (prefix) => {
+return `
+OPEN SUNTIK FOLL IG BY PUTRAXD OFC
+
+100 FOLL :1K
+200 FOLL :2K
+300 FOLL :3K
+DST
+MINAT CHAT
+wa.me/6283842942635
+`
+}
+exports.editing = (prefix) => {
+return `
+「JASA EDITING BY PUTRAXD OFC」
+*LOGO VEKTOR*
+
+╭≽ *LOGO VEKTOR JB:2K*
+
+*POSTER&DLL*
+
+╭≽ *POSTER FT/FM:4K*
+╭≽ *POSTER OPEN MEMBER:5K*
+╭≽ *POSTER JEBOL SESI:5K*
+╭≽ *POSTER LIST DM FF&ML:5K*
+╭≽ *POSTER CR:5K*
+╭≽ *EDIT SPEK JUAL AKUN:6K*
+╭≽ *POSTER JOKI FF&ML:4K*
+╭≽ *POSTER TRX ON:2K*
+╭≽ *FRAME QRIS GOPAY/ALL PAY:3K*
+╭≽ *BANNER YT:4K*
+╭≽ *THUMBNAIL YT:5K*
+╭≽ *POSTER LIST JASA DESIGN:4K*
+╭≽ *POSTER FEE TRANSAKSI:3K*
+
+*JASA EDITING VIDEO*
+
+╭≽ *INTRO YOUTUBE 2D:8K*
+╭≽ *JEDAG JEDUG BIASA:4K*
+╭≽ *JEDAG JEDUG+SABER EFEK:10K*
+
+
+
+PAYMENT
+GOPAY/QRIS
+
+SISTEM: PROSES LOGO/POSTER/VIDEO - TF - DONE
+
+NOTE:JIKA UDH DI BUATIN LOGO SECEPAT NYA TF YA
+
+RAGU? SKIP,TESTI? BARU OPEN BANG!
+
+MINAT? CHAT NOMOR DI BAWAH INI!
+http://wa.me/6283842942635
+`
+}
+exports.culikmem = (prefix) => {
+return `
+JASA CULIK MEMBER BY PUTRAXD OFC*
+
+50MEM:2K
+100MEM:5K
+150MEM:7K
+FULL:10K
+Chat:wa.me/6283842942635
+`
+}
+exports.pointft = (prefix) => {
+return `
+MAU OPEN FT TAPI KGK SEMPET NGITUNG POINT? TENANG SAYA SOLUSI NYA
+
+*MENYEDIAKAN HITUNG POIN FT*
+1M:1K
+2M:2K
+3M:3K
+4M:4K
+*OPEN JUGA SPECT+POINT TABLE*
+1M:2K
+2M:4K
+3M:6K
+4M:8K
+*OPEN JASA BUAT CR JUGA DISINI!!!! *
+1CR:2K
+2CR:4K
+3CR:6K
+DST..... 
+
+*OPEN JUGA BUAT POSTER FT CLASIC&CS
+1POSTER:5K*
+
+*SATU PAKET FT LENGKAP:POSTER+3CR+POINT TABLE+SPECT!!!!!*
+
+*OPEN MURID HITUNG POINT OTOMATIS:5K SAHAJA*
+
+MINAT? BISA CHAT:wa.me/6283842942635
+©PutraXd Ofc
+`
+}
+exports.muridbot = (prefix) => {
+return `
+OPEN MURID BUAT BOT STORE/JUALAN
+BOT PRIBADI ADA 2 CARA BERBEDA BISA TAMBAHIN JUALAN KAMU!!!! 
+
+BOT RESPONDER :
+ANTILINK ×
+TAMBAH JUALAN √
+TAMBAH AUTO RESPON √
+WELCOME ×
+STICKER × 
+CUMA NAMBAH PESAN TEXT
+FREE DI BUATIN SC + APK PREMIUM
+HARGA?? 3K
+
+BOT TERMUX/HEROKU
+ANTILINK √
+WELCOME GG √
+BROADCAST √
+TAMBAHIN STORE √
+STICKER √
+TTP & ATTP √
+HIDETAG √
+DLL
+FREE RECODE SC + UP GITHUB (KALO RUN HEROKU) 
+HARGA?? 10K
+
+OPEN BUAT WEBSITE JASA SEWA BOT
+HARGA?? 5K
+CONTOH WEB:
+
+
+PAYMENT:GOPAY - QRIS /KETIK #payment
+
+MINAT CHAT : wa.me/6283842942635
+`
+}
+exports.webjualan= (prefix) => {
+return `
+*OPEN BUAT WEB JUALAN POLOS*
+HARGA?? :5K
+MURAH YA IYA 
+BISA TAMBAHIN JUALAN MU CONTOH WEB NIH
+
+
+
+CUMA TAMBAHIN JUALAN+PAYMENT+NOMER SELLER
+`
+}
+exports.crff = (prefix) => {
+return `
+per cr 1k jika stok
+`
+}
